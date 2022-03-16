@@ -9,7 +9,7 @@ export default function App() {
   
     <Weather defaultCity="Göttingen" />
    <footer>
-       This project was coded by Perizat Moldobaeva and is < a href='https://github.com/samatovaperizat/react-weather-app' target="_blank" rel="noreferrer" >open-sourced on GitHub</a>
+       This project was coded by Perizat Moldobaeva and is < a href="https://github.com/samatovaperizat/react-weather-app" target="_blank" rel="noreferrer">open-sourced on GitHub</a>
 </footer>
     </div>
     </div>
